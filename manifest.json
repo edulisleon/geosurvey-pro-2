@@ -1,0 +1,24 @@
+{
+  "short_name": "GeoSurveyPro",
+  "name": "GeoSurveyPro IDEHUPy",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10697/10697256.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10697/10697256.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#dc2626",
+  "description": "Aplicación de recolección de datos en campo offline-first.",
+  "orientation": "portrait"
+}

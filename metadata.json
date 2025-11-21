@@ -1,0 +1,7 @@
+{
+  "name": "GeoSurveyPro IDEHUPy",
+  "description": "Aplicación de recolección de datos en campo offline-first con bloqueo GPS anti-fraude y tablero estadístico.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
